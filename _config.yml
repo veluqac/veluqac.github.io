@@ -34,6 +34,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-archives
+  - jekyll-polyglot
 
 jekyll-archives:
   enabled:
@@ -41,6 +42,12 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
+
+# jekyll-polyglot preferences
+languages: ["fr", "en"]
+default_lang: "fr"
+exclude_from_localization: ["javascript", "images", "css", "public"]
+parallel_localization: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

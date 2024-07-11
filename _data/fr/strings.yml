@@ -1,0 +1,7 @@
+hello: "Bonjour"
+greetings:
+  morning: "Bon matin"
+  evening: "Bonsoir"
+lang_name: Français
+title: Votre magnifique titre
+rss_subscribe: 'abonnez-vous <a href="$url">par RSS</a>'
