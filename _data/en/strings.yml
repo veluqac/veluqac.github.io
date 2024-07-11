@@ -1,7 +1,2 @@
-hello: "Hello"
-greetings:
-  morning: "Good morning"
-  evening: "Good evening"
 lang_name: English
-title: Your awesome title
 rss_subscribe: 'subscribe <a href="$url">via RSS</a>'
