@@ -5,15 +5,6 @@ permalink: /about/
 lang: en
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Veluqac is a multidisciplinary project, designed by and for the university community from [UQAC](https://www.uqac.ca), aimed at developing and studying the use of an electricity-generating bike-desk platform.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This project aims, among other things, to raise awareness among users about energy consumption, to combat a sedentary lifestyle and to introduce new educational approaches and techniques.
