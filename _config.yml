@@ -27,7 +27,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 # Ce projet a pour objectifs de sensibiliser les personnes utilisatrices à la consommation d'énergie, de combattre la sédentarité et d'introduire de nouvelles approches et techniques pédagogiques.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  veluqac
+github_username: veluqac
+rss: rss
 
 # Build settings
 theme: minima
