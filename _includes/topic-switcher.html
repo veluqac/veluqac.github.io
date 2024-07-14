@@ -1,21 +1,5 @@
-<!--
-{% for lang in site.languages %}
-  {% assign lang_name = site.data[lang].strings.lang_name %}
-  {% if lang == site.active_lang %}
-{{ lang_name }}
-  {% else %}
-    {% if lang == site.default_lang %}
-<a href=" {{ page.url }}">{{ lang_name }}</a>
-    {% else %}
-<a href="/{{ lang }}{{ page.url }}">{{ lang_name }}</a>
-    {% endif %}
-  {% endif %}
-  {% if forloop.last == false %}
-  |
-  {% endif %}
-{% endfor %}
--->
-
+<h2>{{ site.data.strings.topic }}</h2>
+<p>
 {% if page.title %}
 <a href="/">All</a> 
 {% else %}
@@ -32,3 +16,4 @@ All
   |
   {% endif %}
 {% endfor %}
+</p>
