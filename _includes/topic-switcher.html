@@ -1,16 +1,15 @@
-<h2>{{ site.data.strings.topic }}</h2>
 <p>
 {% if page.title %}
-<a href="/">All</a> 
+<a href="/">{{ site.data.strings.all }}</a> 
 {% else %}
-All
+{{ site.data.strings.all }}
 {% endif %}
 | 
 {% for category in site.categories %}
   {% if category[0] == page.title %}
-  {{ category[0] }}
+  {{ category[0] | capitalize }}
   {% else %}
-  <a href="/topic/{{ category[0] }}">{{ category[0] }}</a>
+  <a href="/topic/{{ category[0] }}">{{ category[0] | capitalize }}</a>
   {% endif %}
   {% if forloop.last == false %}
   |
