@@ -40,9 +40,9 @@ plugins:
 jekyll-archives:
   enabled:
     - categories
-  layout: archive
+  layout: topic
   permalinks:
-    category: '/category/:name/'
+    category: '/topic/:name/'
 
 # jekyll-polyglot preferences
 languages: ["fr", "en"]
