@@ -16,9 +16,18 @@
 {% endfor %}
 -->
 
-<a href="/">All</a> | 
+{% if page.title %}
+<a href="/">All</a> 
+{% else %}
+All
+{% endif %}
+| 
 {% for category in site.categories %}
+  {% if category[0] == page.title %}
+  {{ category[0] }}
+  {% else %}
   <a href="/topic/{{ category[0] }}">{{ category[0] }}</a>
+  {% endif %}
   {% if forloop.last == false %}
   |
   {% endif %}
