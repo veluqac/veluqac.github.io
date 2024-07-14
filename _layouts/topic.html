@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{%- include topic-switcher.html -%}
+
 <h2 class="post-list-heading">{{ page.title | capitalize }}</h2>
 <ul class="post-list">
   {% for post in page.posts %}
