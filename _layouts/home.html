@@ -27,9 +27,6 @@ layout: default
       </li>
       {%- endfor -%}
     </ul>
-
-    {%- assign feed_url = "/feed.xml" | relative_url -%}
-    <p class="rss-subscribe">{{ site.data.strings.rss_subscribe | replace: "$url", feed_url }}</p>
   {%- endif -%}
 
 </div>
