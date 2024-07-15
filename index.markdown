@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: blog
-list_title: Liste des Posts
 permalink: /
 lang: fr
 ---
