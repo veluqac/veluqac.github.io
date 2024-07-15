@@ -7,3 +7,4 @@ lang: en
 author: Damien
 ---
 This is a test.
+![Under desk bike](/assets/img/blog/under_desk_bike.jpg)

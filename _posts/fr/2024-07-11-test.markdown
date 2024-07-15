@@ -8,3 +8,4 @@ author: Damien
 ---
 Ceci est un test.
 Coucou !
+![Under desk bike](/assets/img/blog/under_desk_bike.jpg)
