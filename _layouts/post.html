@@ -11,8 +11,19 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
       {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}</p>
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }} </span></span>
+      {%- endif -%}
+      {% for category in site.categories %}
+        {% if forloop.first %}
+        •
+        {% endif %}
+        {% assign topic_name = category[0] %}
+        <a href="/topic/{{ topic_name }}">{{ site.data.strings.topics[topic_name] }}</a>
+        {% if forloop.last == false %}
+        |
+        {% endif %}
+      {% endfor %}
+    </p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
