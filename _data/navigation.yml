@@ -1,4 +1,4 @@
 - name: about
-  url: /about/
-- name: blog
   url: /
+- name: blog
+  url: /blog/
