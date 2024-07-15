@@ -6,10 +6,11 @@
 {% endif %}
 | 
 {% for category in site.categories %}
-  {% if category[0] == page.title %}
-  {{ category[0] | capitalize }}
+  {% assign topic_name = category[0] %}
+  {% if topic_name == page.title %}
+  {{ site.data.strings.topics[topic_name] }}
   {% else %}
-  <a href="/topic/{{ category[0] }}">{{ category[0] | capitalize }}</a>
+  <a href="/topic/{{ topic_name }}">{{ site.data.strings.topics[topic_name] }}</a>
   {% endif %}
   {% if forloop.last == false %}
   |
