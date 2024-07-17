@@ -10,4 +10,4 @@ lang: en
 
 Veluqac is a multidisciplinary project, designed by and for the university community from [UQAC](https://www.uqac.ca), aimed at developing and studying the use of an electricity-generating bike desk.
 
-This project aims, among other things, to raise awareness about energy consumption, to combat a sedentary lifestyle and to introduce new educational approaches and techniques.
+Furthermore, this project has several objectives, including raising awareness of energy consumption, combating sedentary behavior and introducing new educational approaches and techniques.
