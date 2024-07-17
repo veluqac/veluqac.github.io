@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Bienvenue sur Veluqac"
+date:   2024-07-16 15:00:00 +0200
+categories: update
+lang: fr
+author: Damien
+---
+Nous sommes ravis d'annoncer le lancement officiel du site web de Veluqac ! Ce site sans prétention servira à promouvoir et partager des mises à jour sur le projet.
