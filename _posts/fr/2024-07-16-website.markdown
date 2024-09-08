@@ -6,4 +6,24 @@ categories: update
 lang: fr
 author: Damien
 ---
-Nous sommes ravis d'annoncer le lancement officiel du site web de Veluqac ! Ce site sans prétention servira à promouvoir et partager des mises à jour sur le projet.
+<em>(Mise à jour le 2024-09-08)</em>
+
+Nous sommes ravis d’annoncer le lancement officiel du site web de **Veluqac** !
+
+Conçu pour être simple, fonctionnel et facile d’accès, ce site est hébergé via [GitHub Pages](https://pages.github.com), 
+et son code source, basé sur la technologie [Jekyll](https://jekyllrb.com), est entièrement ouvert sur un 
+[dépôt](https://github.com/veluqac/veluqac.github.io) public. Cela permet une transparence totale et offre à 
+la communauté la possibilité de **contribuer** et de suivre l’évolution 
+technique du projet.
+
+Ce site sera le principal canal de communication pour partager des informations clés sur le projet. 
+Que vous soyez une personne étudiante, chercheuse, ou simplement curieuse, vous y trouverez des 
+articles détaillant le développement des prototypes, un aperçu des technologies que nous employons, 
+ainsi que des portraits de l’équipe derrière Veluqac.
+
+**Veluqac** est un projet de recherche multidisciplinaire, lancé à l’Université du Québec à Chicoutimi ([UQAC](https://www.uqac.ca)). 
+Il s’inscrit dans une démarche d’innovation centrée sur l’**éducation**, le **développement durable**, et la **santé**, 
+avec comme objectif la conception et l’étude d’une plateforme vélo-bureau générant de l’électricité.
+
+Restez connectés pour suivre nos dernières actualités, et n’oubliez pas de vous abonner à notre 
+[flux RSS](https://veluqac.github.io/feed.xml) pour ne rien manquer !

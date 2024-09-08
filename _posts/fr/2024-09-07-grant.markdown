@@ -6,6 +6,6 @@ categories: update
 lang: fr
 author: Damien
 ---
-Excellente nouvelle ! Une subvention de 7 000 $ (CAD) pour l'année 2024-2025 a été octroyée dans le cadre du Programme de soutien au développement de la recherche et création ([PSDrc](https://recherche.uqac.ca/psdrc)) de l'Université du Québec à Chicoutimi ([UQAC](https://www.uqac.ca)). 
+**Excellente nouvelle !** Une subvention de 7 000 $ (CAD) pour l'année 2024-2025 a été octroyée dans le cadre du Programme de soutien au développement de la recherche et création ([PSDrc](https://recherche.uqac.ca/psdrc)) de l'Université du Québec à Chicoutimi ([UQAC](https://www.uqac.ca)). 
 
-Ce financement sera consacré à la conception et à la fabrication des prototypes de la plateforme Veluqac. En plus de couvrir l'achat du matériel requis, ces fonds serviront principalement à offrir des bourses aux personnes étudiantes de premier cycle en génie mécanique, électrique et informatique.
+Ce financement sera consacré à la conception et à la fabrication des prototypes de la plateforme Veluqac. En plus de couvrir l'achat du matériel requis, ces fonds serviront principalement à offrir **des bourses aux personnes étudiantes** de premier cycle en génie mécanique, électrique et informatique.
