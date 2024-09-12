@@ -26,4 +26,4 @@ Il s’inscrit dans une démarche d’innovation centrée sur l’**éducation**
 avec comme objectif la conception et l’étude d’une plateforme vélo-bureau générant de l’électricité.
 
 Restez connectés pour suivre nos dernières actualités, et n’oubliez pas de vous abonner à notre 
-[flux RSS](https://veluqac.github.io/feed.xml) pour ne rien manquer !
+[flux RSS]({% link feed.xml %}) pour ne rien manquer !

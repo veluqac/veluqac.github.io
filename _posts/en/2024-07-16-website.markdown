@@ -16,4 +16,4 @@ This site will be the main communication channel to share key information about 
 
 **Veluqac** is a multidisciplinary research project, launched at the Université du Québec à Chicoutimi ([UQAC](https://www.uqac.ca)). It is part of an innovation approach focused on **education**, **sustainable development**, and **health**, with the objective of designing and studying a bike-desk platform generating electricity.
 
-Stay connected to follow our latest news, and don't forget to subscribe to our [RSS feed](https://veluqac.github.io/feed.xml) so you don't miss anything!
+Stay connected to follow our latest news, and don't forget to subscribe to our [RSS feed]({% link feed.xml %}) so you don't miss anything!
