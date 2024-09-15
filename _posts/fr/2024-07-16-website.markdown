@@ -6,7 +6,7 @@ categories: update
 lang: fr
 author: Damien
 ---
-<em>(Mise à jour le 2024-09-08)</em>
+<em>(Mis à jour le 2024-09-08)</em>
 
 Nous sommes ravis d’annoncer le lancement officiel du site web de **Veluqac** !
 
