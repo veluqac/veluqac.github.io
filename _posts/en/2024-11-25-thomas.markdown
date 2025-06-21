@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "New team member!"
+date:   2024-11-25 16:00:00 +0200
+categories: update
+lang: en
+author: Damien
+---
+<em>(Updated on 2025-05-17, photo added)</em>
+
+We’re excited to welcome a new team member to the Veluqac project: [Thomas Bissonnette-Royer](https://www.linkedin.com/in/thomas-bissonnette-royer-27510b1b0), a computer engineering undergraduate student at [UQAC](https://www.uqac.ca). Curious, dedicated, and passionate about technological innovation, Thomas joins the project to contribute to the development of both the hardware and software behind our electricity-generating bike-desk platform.
+
+![A photograph of Thomas working on the veluqac prototype]({% link /assets/img/blog/team_thomas.jpg %})
+
+For Thomas, this adventure is much more than an opportunity to apply what he’s learned: it’s a **chance to grow and learn** in a hands-on, stimulating environment. He will begin by conducting a review of existing solutions, identifying best practices, and making sure to build on solid foundations rather than reinvent the wheel.
+
+Next, he’ll take part in a key phase of the project: designing the very first **functional prototype** of the bike-desk. This prototype will need to be conceived as a modular platform, adaptable to a variety of use cases and experimental contexts.
+
+To support his involvement, Thomas will receive **student scholarships**, a boost that reinforces the project’s educational mission and supports his academic development.
+
+Welcome to the team, Thomas! We’re thrilled to have you on board as we pedal together toward more active, greener, and better-connected campuses.
