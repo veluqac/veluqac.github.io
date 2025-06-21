@@ -8,4 +8,6 @@ author: Damien
 ---
 **Great news!** A $7,000 (CAD) grant for the year 2024-2025 has been awarded under the Research and Creation Development Support Program ([PSDrc](https://recherche.uqac.ca/psdrc)) of the Université du Québec à Chicoutimi ([UQAC](https://www.uqac.ca)).
 
-This funding will be dedicated to the design and fabrication of prototypes of the Veluqac platform. In addition to covering the purchase of necessary materials, these funds will primarily be used to provide **scholarships to undergraduate students** in mechanical, electrical and computer engineering.
+This funding will only be dedicated to the design and fabrication of prototypes of the Veluqac platform. In addition to covering the purchase of necessary materials, these funds will primarily be used to provide **scholarships to undergraduate students** in mechanical, electrical and computer engineering.
+
+Additional grant applications will follow to explore the potential of the prototypes in real-world settings, such as their use in classrooms, where they could become powerful pedagogical tools.
