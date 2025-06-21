@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Nouveau membre de l'équipe !"
+date:   2024-11-25 16:00:00 +0200
+categories: update
+lang: fr
+author: Damien
+---
+Nous avons le plaisir d’accueillir un nouveau collaborateur dans l’équipe Veluqac : [Thomas Bissonnette-Royer](https://www.linkedin.com/in/thomas-bissonnette-royer-27510b1b0), étudiant à l'[UQAC](https://www.uqac.ca) au baccalauréat en génie informatique. Curieux, engagé et passionné par l’innovation technologique, Thomas se joint au projet pour contribuer au développement des solutions logicielles et matérielles qui alimentent notre plateforme de vélo-bureau générateur d’électricité.
+
+Pour Thomas, cette aventure représente bien plus qu’une simple mise en pratique de ses connaissances : c’est une véritable **occasion d’apprendre** dans un contexte concret et stimulant. Il entamera d’abord son implication par un état de l’art, explorant les solutions existantes, repérant les bonnes pratiques et s’assurant de bâtir sur des bases solides plutôt que de réinventer la roue...
+
+Il participera ensuite à une étape clé du projet : la conception du tout premier **prototype fonctionnel** du vélo-bureau. Ce prototype devra être pensé comme une plateforme modulable, capable de s’adapter à une variété de contextes d’usage et d’expérimentation.
+
+Pour soutenir son implication, Thomas bénéficiera de **bourses d’études**, un coup de pouce qui vient renforcer l’ancrage pédagogique du projet et encourager son développement académique.
+
+Bienvenue dans l’équipe, Thomas ! Nous sommes ravis de t’avoir à bord pour pédaler ensemble vers des campus plus actifs, plus verts et plus connectés.
