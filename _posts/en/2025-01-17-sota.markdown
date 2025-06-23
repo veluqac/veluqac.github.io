@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Before we pedal further"
+date:   2025-01-17 15:00:00 +0200
+categories: update
+lang: en
+author: Damien
+---
+<em>(TODO - State of the art)</em>

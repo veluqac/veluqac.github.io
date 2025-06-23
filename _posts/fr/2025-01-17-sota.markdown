@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Avant de pédaler plus loin"
+date:   2025-01-17 15:00:00 +0200
+categories: update
+lang: fr
+author: Damien
+---
+<em>(À PARTAGER - Présentation de l'état de l'art)</em>
