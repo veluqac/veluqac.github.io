@@ -6,4 +6,4 @@ categories: update
 lang: en
 author: Damien
 ---
-<em>(TODO - Team presentation)</em>
+<em>(TODO - Translate french post)</em>
