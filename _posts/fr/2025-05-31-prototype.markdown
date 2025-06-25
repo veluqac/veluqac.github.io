@@ -6,4 +6,4 @@ categories: update
 lang: fr
 author: Damien
 ---
-<em>(À PARTAGER - Présentation du prototype)</em>
+<em>(À PARTAGER au plus tard durant l'été 2025 - Présentation du prototype)</em>
