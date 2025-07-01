@@ -6,4 +6,6 @@ categories: update
 lang: en
 author: Damien
 ---
-<em>(TODO - Challenges presentation)</em>
+<em>(TO SHARE - Challenges presentation)</em>
+
+![Burnt chip]({% link /assets/img/blog/burnt_chip.jpg %})

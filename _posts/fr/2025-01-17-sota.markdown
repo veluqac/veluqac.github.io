@@ -7,3 +7,5 @@ lang: fr
 author: Damien
 ---
 <em>(À PARTAGER - Présentation de l'état de l'art)</em>
+
+![La couverture du livre de Tamara Dean : The Human-Powered Home]({% link /assets/img/blog/TheHumanPoweredHome_cover.jpg %})

@@ -6,4 +6,6 @@ categories: update
 lang: en
 author: Damien
 ---
-<em>(TODO - Components presentation)</em>
+<em>(TO SHARE - Components presentation)</em>
+
+![Pedal gear]({% link /assets/img/blog/bike_gear.jpg %})

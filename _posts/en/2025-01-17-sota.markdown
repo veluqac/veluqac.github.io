@@ -6,4 +6,6 @@ categories: update
 lang: en
 author: Damien
 ---
-<em>(TODO - State of the art)</em>
+<em>(TO SHARE - State of the art)</em>
+
+![The cover of the book by Tamara Dean: The Human-Powered Home]({% link /assets/img/blog/TheHumanPoweredHome_cover.jpg %})

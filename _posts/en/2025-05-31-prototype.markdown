@@ -7,3 +7,5 @@ lang: en
 author: Damien
 ---
 <em>(TO SHARE during summer 2025 - Prototype presentation)</em>
+
+![Feather board]({% link /assets/img/blog/feather_board.jpg %})

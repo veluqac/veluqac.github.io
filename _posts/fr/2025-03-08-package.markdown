@@ -7,3 +7,5 @@ lang: fr
 author: Damien
 ---
 <em>(À PARTAGER - Présentation des composants)</em>
+
+![Engrenage du pédalier]({% link /assets/img/blog/bike_gear.jpg %})
