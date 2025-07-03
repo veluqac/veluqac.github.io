@@ -6,6 +6,17 @@ categories: update
 lang: fr
 author: Damien
 ---
-<em>(À PARTAGER - Présentation de l'état de l'art)</em>
+<em>(À METTRE À JOUR)</em>
+
+Bien entendu, l’idée de produire de l’électricité à l’aide de vélos ne date pas d’hier.
+Cet article dresse un portrait de l’existant en matière de vélos générateurs d’électricité, qu’ils soient disponibles à la location, à l’achat ou à construire soi-même. Sans prétendre à l’exhaustivité, cette présentation a pour objectif de donner un aperçu général des initiatives existantes et de mettre en lumière la diversité des usages et des conceptions.
+
+### Évènementiel
+Portées par des motivations écologiques, certaines entreprises proposent des vélos générateurs d’électricité à la location ou à l’achat, principalement pour animer divers types d’événements. Fait intéressant : ces dispositifs sont souvent associés à des usages ludiques et interactifs, permettant d’utiliser l’énergie (électrique ou mécanique) produite en temps réel, par exemple pour alimenter un broyeur de bouteilles en plastique, un mélangeur à fruits ou encore une machine à bulles.
+- [LudikÉnergie](https://www.ludikenergie.fr/notre-offre/velo-generateur-delectricite-pedalons-ensemble-pour-un-avenir-durable) (France)
+- [Planète-Wei](https://planete-wei.com/velo-generateur-d-electricite) (France)
+
+### Livre
+**À découvrir** : _The Human-Powered Home_ (écrit en anglais) de Tamara Dean est une mine d’idées ingénieuses et écologiques pour repenser notre rapport à l’énergie. Ce livre rassemble plus de cinquante projets fonctionnant à la force humaine, souvent par l'intermédiaire d'un pédalier ! Bonne nouvelle, pour la communauté universitaire du Québec, ce livre est [disponible en ligne](https://uqac.on.worldcat.org/oclc/471124898).
 
 ![La couverture du livre de Tamara Dean : The Human-Powered Home]({% link /assets/img/blog/TheHumanPoweredHome_cover.jpg %})

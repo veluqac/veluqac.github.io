@@ -6,6 +6,16 @@ categories: update
 lang: en
 author: Damien
 ---
-<em>(TO SHARE - State of the art)</em>
+<em>(TO UPDATE)</em>
+
+Of course, the idea of generating electricity with bicycles is not new. This article provides an overview of existing bicycle-powered electricity generators—whether available for rent, for purchase, or as DIY builds. Without aiming for exhaustiveness, it seeks to offer a general picture of current initiatives and to highlight the diversity of uses and designs.
+
+### Event-based
+Driven by ecological motivations, some companies offer electricity-generating bicycles for rent or purchase, mainly to enliven various types of events. Interestingly, these devices are often paired with playful and interactive uses, allowing the (electrical or mechanical)energy produced in real time to power things like a plastic bottle shredder, a fruit blender, or even a bubble machine.
+- [LudikÉnergie](https://www.ludikenergie.fr/notre-offre/velo-generateur-delectricite-pedalons-ensemble-pour-un-avenir-durable) (France)
+- [Planète-Wei](https://planete-wei.com/velo-generateur-d-electricite) (France)
+
+### Book
+**Worth discovering**: _The Human-Powered Home_ by Tamara Dean is a goldmine of clever and eco-friendly ideas for rethinking our relationship with energy. The book features over fifty human-powered projects, often using a pedal mechanism. Good news: for members of Quebec’s university community, the book is [available online](https://uqac.on.worldcat.org/oclc/471124898).
 
 ![The cover of the book by Tamara Dean: The Human-Powered Home]({% link /assets/img/blog/TheHumanPoweredHome_cover.jpg %})
